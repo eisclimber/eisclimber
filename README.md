@@ -3,7 +3,7 @@
 ## About me
 I'm a Computer Scientist studying at Eberhard Karls Universität in Tübingen, Germany.
 
-My Pronous: he/his
+My Pronous: he/his🏳️‍🌈
 
 
 ## Interests
