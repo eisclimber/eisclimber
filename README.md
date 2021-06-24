@@ -18,6 +18,5 @@ Apart from listening to good music, I'm playing guitar for multiple years now.
 
 
 ## How to reach me:
-- luca.dreiling@gmx.de
 - @eisclimber on Twitter
 - 🚧**Under contruction**🚧 Via http://luca-dreiling.de/
