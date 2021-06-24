@@ -9,7 +9,7 @@ My Pronous: he/his
 ## Interests
 
 ### Video Games & Developement
-I love creating (and playing, duh!) small video games and prototypes. 
+I love creating (and playing, duh!) small video games and prototypes using the Godot Engine.
 
 Besides participating in game jams, I've led developement and pubished my first game *Neon GraVel*.
 
