@@ -21,4 +21,4 @@ Apart from listening to good music, I'm playing guitar for multiple years now.
 
 ## How to reach me:
 - @eisclimber on Twitter
-- 🚧**Under contruction**🚧 Via http://luca-dreiling.de/
+- 🚧**Under construction**🚧 Via http://luca-dreiling.de/
