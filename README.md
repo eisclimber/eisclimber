@@ -5,7 +5,6 @@ I'm a Computer Scientist studying at Eberhard Karls Universität in Tübingen, G
 
 My Pronous: he/him🏳️‍🌈
 
-
 ## Interests
 
 ### Video Games & Developement
@@ -21,4 +20,4 @@ Apart from listening to good music, I'm playing guitar for multiple years now.
 
 ## How to reach me:
 - @eisclimber on Twitter
-- 🚧**Under construction**🚧 Via http://luca-dreiling.de/
+- Via http://luca-dreiling.de/
